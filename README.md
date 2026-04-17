@@ -32,10 +32,11 @@ Object-Oriented Programming (OOP)
 - Build reliable, well-structured projects  
 - Prepare for internships and graduate roles in tech
 
-## Ask me about Ask me about my projects or anything related to computer science
-
 
 ## How to Reach Me
+**Ask me about Ask me about my projects or anything related to computer science**
+LinkedIn: (add your link)  
+Email: (optional)
 
 <!--
 **naishaHarper/naishaHarper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
