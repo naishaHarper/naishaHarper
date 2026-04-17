@@ -1,4 +1,4 @@
-## Hi, I'm Naisha :)
+## Hi, I'm Naisha.
 
 I'm a third-year Computer Science student interested in software development and building practical systems.  
 I'm focused on strengthening my programming skills and gaining real-world experience through projects.
