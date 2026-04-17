@@ -28,15 +28,19 @@ Object-Oriented Programming (OOP)
 
 ## Goals
 
-- Continue improving my programming and software development skills  
-- Build reliable, well-structured projects  
-- Prepare for internships and graduate roles in tech
+- Continue developing strong software development and problem-solving skills  
+- Build practical projects that demonstrate my abilities and progress  
+- Gain real-world experience through internships or graduate opportunities  
 
 
 ## How to Reach Me
-**Ask me about Ask me about my projects or anything related to computer science**
+
 LinkedIn: (add your link)  
 Email: (optional)
+
+*Ask me about programming, problem solving, or my computer science projects :)*
+
+
 
 <!--
 **naishaHarper/naishaHarper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
