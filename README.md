@@ -1,7 +1,8 @@
 ## Hi, I'm Naisha 👋
 
-I'm a third-year Computer Science student interested in software development and building practical systems.  
-At the moment, I'm focused on improving my programming and problem-solving skills through coursework and by working on my own projects.
+I'm a third-year Computer Science student interested in software development and building practical systems. At the moment, I'm focused on improving my programming and problem-solving skills through coursework and by working on my own projects.
+--- 
+### Currently Working On and Working Towards
 
 Right now, I'm building my skills step by step through hands-on projects and university work. I'm also spending time getting more comfortable with object-oriented programming, backend development, and working with databases.
 
