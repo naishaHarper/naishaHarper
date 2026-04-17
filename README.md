@@ -3,6 +3,7 @@
 I'm a third-year Computer Science student interested in software development and building practical systems.  
 I'm focused on strengthening my programming skills and gaining real-world experience through projects.
 
+--
 
 ### I'm Currently Working On
 
@@ -10,6 +11,7 @@ I'm focused on strengthening my programming skills and gaining real-world experi
 - Developing coursework projects using object-oriented programming principles  
 - Strengthening my understanding of backend development and database systems  
 
+--
 
 ### Tools & Technologies
 
@@ -28,6 +30,7 @@ Git | GitHub
 **Concepts** 
 Object-Oriented Programming (OOP)  
 
+--
 
 ### Goals
 
@@ -35,11 +38,9 @@ Object-Oriented Programming (OOP)
 - Build practical projects that demonstrate my abilities and progress  
 - Gain real-world experience through internships or graduate opportunities  
 
+-- 
 
-### Ask Me About
-
-Ask me about my projects or anything related to computer science :)
-
+*Ask me about my projects or anything related to computer science :)*
 
 ### How to Reach Me
 
