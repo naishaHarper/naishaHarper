@@ -1,45 +1,55 @@
-## Hi, i'm Naisha 👋
+# Hi, I'm Naisha 👋
 
 I'm a third-year Computer Science student interested in software development and building practical systems.  
 I'm focused on strengthening my programming skills and gaining real-world experience through projects.
 
-## I’m currently working on ... 
+---
+
+## 🔭 I'm Currently Working On
 
 - Improving my programming and problem-solving skills through hands-on projects  
 - Developing coursework projects using object-oriented programming principles  
 - Strengthening my understanding of backend development and database systems  
 
-## Tools & Technologies
+---
 
-**Programming Languages**  
+## 🛠️ Tools & Technologies
+
+### Programming Languages  
 C++ | Java | Python | SQL | JavaScript  
 
-**Web Technologies**  
+### Web Technologies  
 HTML | CSS  
 
-**Databases**  
+### Databases  
 MySQL  
 
-**Tools**  
+### Tools  
 Git | GitHub  
 
-**Concepts**  
-Object-Oriented Programming (OOP)
+### Concepts  
+Object-Oriented Programming (OOP)  
 
-## Goals
+---
+
+## 🎯 Goals
 
 - Continue developing strong software development and problem-solving skills  
 - Build practical projects that demonstrate my abilities and progress  
 - Gain real-world experience through internships or graduate opportunities  
 
+---
 
-## How to Reach Me
+## 💬 Ask Me About
+
+Programming, problem solving, or my computer science projects  
+
+---
+
+## 📫 How to Reach Me
 
 LinkedIn: (add your link)  
 Email: (optional)
-
-*Ask me about programming, problem solving, or my computer science projects :)*
-
 
 
 
