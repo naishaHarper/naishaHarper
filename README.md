@@ -1,11 +1,11 @@
-## Hi, I'm Naisha.
+## Hi, I'm Naisha 👋
 
 I'm a third-year Computer Science student interested in software development and building practical systems.  
 I'm focused on strengthening my programming skills and gaining real-world experience through projects.
 
 ---
 
-### I'm Currently Working On:
+### Currently Working On
 
 - Improving my programming and problem-solving skills through hands-on projects  
 - Developing coursework projects using object-oriented programming principles  
@@ -13,21 +13,21 @@ I'm focused on strengthening my programming skills and gaining real-world experi
 
 ---
 
-### Tools & Technologies:
+### Tools & Technologies
 
-#### **Programming Languages**
+**Programming Languages**  
 C++ | Java | Python | SQL | JavaScript  
 
-#### **Web Technologies**
+**Web Technologies**  
 HTML | CSS  
 
-#### **Databases**
+**Databases**  
 MySQL  
 
-#### **Tools**
+**Tools**  
 Git | GitHub  
 
-#### Concepts
+**Concepts**  
 Object-Oriented Programming (OOP)  
 
 ---
