@@ -37,6 +37,7 @@ Object-Oriented Programming (OOP)
 
 LinkedIn: (add your link)  
 Email: (optional)
+
 *Ask me about programming, problem solving, or my computer science projects :)*
 
 
