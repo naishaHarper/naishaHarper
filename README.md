@@ -15,19 +15,19 @@ I'm focused on strengthening my programming skills and gaining real-world experi
 
 ### Tools & Technologies
 
-##### Programming Languages
+#### Programming Languages
 C++ | Java | Python | SQL | JavaScript  
 
-##### Web Technologies
+#### Web Technologies
 HTML | CSS  
 
-##### Databases
+#### Databases
 MySQL  
 
-##### Tools 
+#### Tools 
 Git | GitHub  
 
-##### Concepts
+#### Concepts
 Object-Oriented Programming (OOP)  
 
 ---
