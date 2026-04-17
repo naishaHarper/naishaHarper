@@ -15,19 +15,10 @@ I'm working towards becoming a capable software developer who can build reliable
 
 ### Tools & Technologies
 
-**Programming Languages**  
-C++ | Java | Python | SQL | JavaScript  
-
-**Web Technologies**  
-HTML | CSS  
-
-**Databases**  
+C++, Java, Python, SQL, JavaScript  
+HTML, CSS  
 MySQL  
-
-**Tools**  
-Git | GitHub  
-
-**Concepts**  
+Git and GitHub  
 Object-Oriented Programming (OOP)
 
 ---
