@@ -25,8 +25,8 @@ Object-Oriented Programming (OOP)
 
 ### How to Reach Me
 
-LinkedIn: (add your link)  
-Email: (optional)
+LinkedIn: https://www.linkedin.com/in/naisha-harper-10a98b403/
+Email: naisha.m.harper@gmail.com
 
 *Ask me about my projects or anything related to computer science :)*
 
