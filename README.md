@@ -34,11 +34,12 @@ Object-Oriented Programming (OOP)
 
 
 ## How to Reach Me
+*Ask me about programming, problem solving, or my computer science projects :)*
 
 LinkedIn: (add your link)  
 Email: (optional)
 
-*Ask me about programming, problem solving, or my computer science projects :)*
+
 
 
 
