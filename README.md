@@ -42,7 +42,7 @@ Object-Oriented Programming (OOP)
 
 ## 💬 Ask Me About
 
-Programming, problem solving, or my computer science projects  
+Ask me about my projects or anything related to computer science :)
 
 ---
 
