@@ -3,9 +3,7 @@
 I'm a third-year Computer Science student interested in software development and building practical systems.  
 I'm focused on strengthening my programming skills and gaining real-world experience through projects.
 
----
-
-### Currently Working On
+**Currently Working On:**
 
 - Improving my programming and problem-solving skills through hands-on projects  
 - Developing coursework projects using object-oriented programming principles  
