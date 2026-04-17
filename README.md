@@ -4,44 +4,44 @@ I'm a third-year Computer Science student interested in software development and
 I'm focused on strengthening my programming skills and gaining real-world experience through projects.
 
 
-## I'm Currently Working On
+### I'm Currently Working On
 
 - Improving my programming and problem-solving skills through hands-on projects  
 - Developing coursework projects using object-oriented programming principles  
 - Strengthening my understanding of backend development and database systems  
 
 
-## Tools & Technologies
+### Tools & Technologies
 
-### Programming Languages  
+**Programming Languages** 
 C++ | Java | Python | SQL | JavaScript  
 
-### Web Technologies  
+**Web Technologies** 
 HTML | CSS  
 
-### Databases  
+**Databases** 
 MySQL  
 
-### Tools  
+**Tools**  
 Git | GitHub  
 
-### Concepts  
+**Concepts** 
 Object-Oriented Programming (OOP)  
 
 
-## Goals
+### Goals
 
 - Continue developing strong software development and problem-solving skills  
 - Build practical projects that demonstrate my abilities and progress  
 - Gain real-world experience through internships or graduate opportunities  
 
 
-## Ask Me About
+### Ask Me About
 
 Ask me about my projects or anything related to computer science :)
 
 
-## How to Reach Me
+### How to Reach Me
 
 LinkedIn: (add your link)  
 Email: (optional)
